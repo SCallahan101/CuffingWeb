@@ -1,0 +1,32 @@
+html{
+    height: 100%;
+    background-color: olivedrab;
+}
+
+body {
+    background-color: olivedrab;
+}
+
+.man-desc {
+    color: white;
+    font-weight: 400;
+}
+
+.cuffing-desc {
+    background-color: olivedrab;
+    color: white;
+}
+
+.heading {
+    font-weight: bold;
+    color: olivedrab;
+}
+
+.separator {
+    background-color: white;
+    height: 2px;
+}
+
+.mil-guy {
+    float: left;
+}
