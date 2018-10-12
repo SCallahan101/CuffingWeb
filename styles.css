@@ -7,6 +7,14 @@ body {
     background-color: olivedrab;
 }
 
+.white {
+    color: white;
+}
+
+.fact {
+    font-weight: 400;
+}
+
 .man-desc {
     color: white;
     font-weight: 400;
