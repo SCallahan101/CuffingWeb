@@ -13,9 +13,9 @@ Cuffing Army
     <div class="row separator">
     </div>
 
-    <div class="p-4 row">
-    <img class="greenbg mil-guy col-3" src="https://c1.staticflickr.com/1/9/68444109_b31b7af181.jpg">
-    <div class="col-8">
+    <div class="p-6 row">
+    <img class="greenbg mil-guy col-3 m-2" src="https://c1.staticflickr.com/1/9/68444109_b31b7af181.jpg">
+    <div class="p-6 col-8">
     <h2 class="white">2018's MVP</h2>
     <h3 class="white">Mr. Chuck Norris</h3>
     <span class="white fact">Age: 64</span><br>
@@ -27,4 +27,5 @@ Cuffing Army
     </div>
 
 </div>
+
 @endsection
